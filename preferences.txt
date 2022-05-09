@@ -1,0 +1,5 @@
+"Favorite movie": "Joker",
+        "Favorite series": "Game of Thrones",
+        "Favorite food": "Pizza",
+        "Favorite season": "Spring",
+        "Country would like to visit": "Japan, France"
